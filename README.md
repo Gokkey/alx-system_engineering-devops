@@ -1,2 +1,0 @@
-The shell basics exercise
-
